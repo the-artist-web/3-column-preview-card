@@ -65,7 +65,7 @@ html {
 }
 
 body {
-    background-color: var(--Transparent-white);
+    background-color: hsla(0, 0%, 90%, 0.75);
     font-family: var(--font-family-body);
     color: var(--Very-light-gray);
 }
